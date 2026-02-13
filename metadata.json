@@ -1,0 +1,7 @@
+{
+  "name": "UWE IHRM Academic Reviewer",
+  "description": "A professional academic feedback tool for UWE lecturers to evaluate IHRM (UMPD7G-15-3) portfolios using Gemini AI, aligning with 2024/25 module outcomes and criteria.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
